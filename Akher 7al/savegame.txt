@@ -1,0 +1,5 @@
+x=415
+y=365
+size=20
+score=0
+collectibles=0
