@@ -1,0 +1,10 @@
+Who has the sword Excalibur?;Arthur;Zeus;Hercules;1;
+Who rules the Underworld?;Poseidon;Hades;Thor;2;
+Who carries the One Ring?;Frodo;Gandalf;Legolas;1;
+Who turns to stone?;Harpies;Sirens;Medusa;3;
+Which house has a lion?;Gryffindor;Slytherin;Ravenclaw;1;
+Who killed the Minotaur?;Achilles;Theseus;Perseus;2;
+Who has hairy feet?;Dwarves;Elves;Hobbits;3;
+Thor’s weapon?;Spear;Sword;Hammer;3;
+Jackal-headed god?;Ra;Anubis;Osiris;2;
+Sea monster name?;Basilisk;Kraken;Dragon;2;
